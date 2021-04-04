@@ -832,12 +832,11 @@ If we now transform that figure by a matrix,
 we send each of these squares to parallelograms,
 each one of which has area given by the determinant.
 We see that for any figure, the determinant gives the (signed) number
-that a matrix scales the area of any figure.
+by which a matrix scales the area of any figure.
 
-Computing determinants for larger matrices can be laborious,
-but the  intuition is the same.
-The determinant remains the factor
-that $n\times n$ matrices scale $n$-dimensional volumes.
+For larger matrices the intuition is the same.
+The determinant is the factor
+by which $n\times n$ matrices scale $n$-dimensional volumes.
 
 ## Tensors and Common Linear Algebra Operations
 
